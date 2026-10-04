@@ -8,7 +8,7 @@ This repository contains selected research and engineering projects from my acad
 
 ## Projects
 
-### 🩸 Soft Optical Sensor for Bleeding Detection During Colonoscopy
+### Soft Optical Sensor for Bleeding Detection During Colonoscopy
 **Medical Devices · Soft Robotics · Sensors · PCB Design · Signal Processing**
 
 Developed a soft optical sensing platform designed to detect bleeding outside the distal camera's field of view during colonoscopy. My work spanned multiple generations of the device, including fabrication of wired sensors, ex vivo testing using a bovine colon at Brigham and Women's Hospital, fluidic-system development, real-time bleeding visualization, flexible PCB design for the wireless platform, and exploratory IMU/Kalman-filter-based localization.
@@ -23,7 +23,7 @@ Developed a soft optical sensing platform designed to detect bleeding outside th
 
 ---
 
-### 🧪 Continuous-Flow Hormone Bioreactor
+### Continuous-Flow Hormone Bioreactor
 **Biomedical Engineering · Fluidics · Simulation · Control Systems**
 
 Designed and tested a continuous-flow bioreactor intended to reproduce dynamic physiological hormone fluctuations for in vitro tendon research. The system combined MATLAB-controlled peristaltic pumping, passive mixing geometries, CAD-designed culture wells, COMSOL fluid simulations, and fluorescence-based experimental validation.
@@ -36,7 +36,7 @@ Sixteen design iterations were evaluated computationally and experimentally to i
 
 ---
 
-### 🧬 Morphological Profiling for CAR-T Gene Discovery
+### Morphological Profiling for CAR-T Gene Discovery
 **Computational Biology · Machine Learning · Cell Painting**
 
 Developed a computational approach for identifying candidate CRISPR gene knockouts using morphological profiles from the JUMP Cell Painting dataset.
@@ -49,7 +49,7 @@ My primary contribution was developing the **fuzzy k-means clustering approach a
 
 ---
 
-### 🚪 Room Occupancy Monitoring System
+### Room Occupancy Monitoring System
 **Embedded Systems · Sensors · Arduino · CAD**
 
 Designed and built an embedded room-occupancy monitoring system using paired infrared break-beam sensors to determine whether individuals were entering or leaving a room.
@@ -62,7 +62,7 @@ The system displayed the current occupancy on an LCD and activated visual and au
 
 ---
 
-### 🌍 European Road Network Graph Analysis
+### European Road Network Graph Analysis
 **Algorithms · Graph Theory · Rust**
 
 Built a graph-analysis program representing **1,174 European cities** as nodes and highway connections as edges.
@@ -75,7 +75,7 @@ Implemented breadth-first search from scratch to calculate shortest-path distanc
 
 ---
 
-### 🌉 Truss Optimization and Structural Analysis
+### Truss Optimization and Structural Analysis
 **Engineering Design · Structural Mechanics · MATLAB**
 
 Designed and optimized a truss structure with the objective of maximizing its **load-to-cost ratio**. Structural analysis was used to calculate internal member forces, identify zero-force members, predict the limiting structural element, and reduce unnecessary material while maintaining load capacity.
